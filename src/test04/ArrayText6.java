@@ -20,5 +20,4 @@ public class ArrayText6 {
 			System.out.println(menus[i]);
 		}
 	}
-
 }
