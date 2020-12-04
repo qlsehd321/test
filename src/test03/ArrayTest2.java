@@ -9,7 +9,7 @@ public class ArrayTest2 {
 		desc[2] = 1.3;
 
 		for (int i = 0; i < desc.length; i++) {
-			System.out.println(desc[i]);
+			
 		}
 	}
 }
